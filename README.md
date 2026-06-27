@@ -1,6 +1,6 @@
 # Playwright Project
 
-Playwright automation tests with Allure reporting.
+Playwright+GenAI Automation framework
 
 ## Author
 - **Anchit Mishra** (misra.anchit@gmail.com)
